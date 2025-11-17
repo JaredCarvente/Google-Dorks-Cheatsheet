@@ -19,4 +19,11 @@
 <ul>
   <li> https://i.instagram.com/api/v1/users/USER_ID/info/</li>
 </ul>
-<p>IMPORTANT! Change the user agent related to a mobile phone with this extension: https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg</p>
+<p>IMPORTANT! Change the user agent related to a mobile phone with this extension: https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg , make sure you select an user agent for android devices navigating through instagram accounts</p>
+
+
+<p>Metadata of an Github account</p>
+<ul>
+  <li> https://api.github.com/repos/USERNAME/USERNAME/commits</li>
+</ul>
+
