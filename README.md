@@ -2,7 +2,7 @@
 
 <h1>Facebook</h1>
 <ul>
-<li> "Name" site:facebook.com inurl:posts</li>
+<li> "username" site:facebook.com inurl:posts</li>
 </ul>
 
 <h1>Instagram</h1>
